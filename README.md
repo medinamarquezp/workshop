@@ -1,5 +1,7 @@
 # GSN v3 integration workshop
 
+https://www.youtube.com/watch?v=Tb4HKboFmoU
+
 ### (Base branch - before adding any GSN support)
 
 This sample dapp emits an event with the last account that clicked on the "capture the flag" button. We will integrate
